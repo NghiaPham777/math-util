@@ -1,0 +1,36 @@
+echo "# math-util" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NghiaPham777/math-util.git
+git push -u origin main
+
+CÂU LỆNH LÀM LẦN ĐẦU TIÊN CHO MÁY MỚI CÀI GIT
+- git config --global user.name ten-git-account
+- got config --global user.email email-dky-github
+
+CÂU LỆNH LÀM LẦN ĐẦU TIÊN CHO KHO MỚI
+- tạo sẵn kho trên server - ko check option nào cả
+- tạo project cùng tên kho trên netbeans, Eclipse, ... trên máy mình (Local)
+- tạo file .gitignore (copy project cũ sang, hoặc lên gitignore.io) 
+-> đặt vào thư mục chứa code ở Local
+GÕ LỆNH
+- git init
+- git add *
+- git commit -m "thông điệp của bạn"
+- git branch -M main
+- git remote add origin https://github.com/tên-account/tên-kho.git
+- git push -u origin main
+
+CÂU LỆNH LÀM HẰNG NGÀY, TỨC LÀ MÌNH, BẠN BÈ, TEAM SỬA CODE VÀ ĐƯA CODE LÊN
+- luôn đứng ở thư mục chứa code
+GÕ LỆNH
+- 
+
+
+
+*LƯU Ý: 
+-> CONFLICT
+-> TRANG TRÍ CÁI THƯ MỤC/KHO/REPO/REPOSITORY CHO ĐẸP
+
