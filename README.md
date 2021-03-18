@@ -10,7 +10,7 @@ in your project as the helper ones.
 
 #### Connect me via:
 [Facebook](https://www.facebook.com/PhamHuuNghia2704/)
-![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F23995810484602139%2F&psig=AOvVaw1ihFxLVpILUIbtLH_O65qO&ust=1616144504954000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDI-cq9ue8CFQAAAAAdAAAAABAD)
+![GitHub Logo](/Desktop/Capture.png)
 Format: ![Alt Text](url)
 
 [Email](mailto: nghiapham2704@gmail.com)
