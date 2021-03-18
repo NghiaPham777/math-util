@@ -1,5 +1,5 @@
-
-## Welcome to Math-Util repository. This repo offers various math methods used in your project as the helper ones.
+## Welcome to Math-Util repository. This repo offers various math methods used
+in your project as the helper ones.
 
 ### _You will find in this repo following stuff:_
 * The README file itself to remonstrate the MARK DOWN syntax
@@ -10,10 +10,7 @@
 
 #### Connect me via:
 [Facebook](https://www.facebook.com/PhamHuuNghia2704/)
+
 [Email](mailto: nghiapham2704@gmail.com)
 
-#### © 2021, HuuNghia
-=======
-## Welcome to Math-Util repository. This repo offers various math methods used in your project as the helper ones.
-
-
+#### © 2021, HuuNghia777
