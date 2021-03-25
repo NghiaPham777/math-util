@@ -2,7 +2,7 @@
 
 
 [![MathUtil project | CI pricess included | © 2021 by HuuNghia](https://github.com/NghiaPham777/math-util/actions/workflows/mathutil-ci-action.yml/badge.svg)](https://github.com/NghiaPham777/math-util/actions/workflows/mathutil-ci-action.yml)
->>>>>>> 1fc35b27e3d21eba99dc5bfae0121e04455118ad
+
 
 ### _You will find in this repo following stuff:_
 * The README file itself to remonstrate the MARK DOWN syntax
