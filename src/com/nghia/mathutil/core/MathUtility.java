@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.fu;
+package com.nghia.mathutil.core;
 
 /**
  *
@@ -28,7 +28,7 @@ public class MathUtility {
             return 1;
         }
         long result= 0; //giả bộ =0
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n; i++) {
             result *=i;
         }
         return result;
