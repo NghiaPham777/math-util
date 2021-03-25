@@ -23,14 +23,24 @@ public class MathUtility {
             throw new IllegalArgumentException("n must be between 0-20");
             
         }
+        //sửa code, sửa hàm giai thừa cho gọn, dùng đệ quy
+        if (n == 0 || n==1) {
+            return 1; //0!=1!=1
+        }
+        return n*getFactorial(n-1);
+//        n!=n*(n-1)!
+        //đệ quy, vòng lại chính mình với quy mô khác
+        //recursion. Làm khéo nếu ko nó đi mãi mãi
+        //STACKOVERFLOW.COM
+        
         //sống sót đến đây => n=0,1,...20
-        if (n==0||n==1) {
-            return 1;
-        }
-        long result= 1;//xanh local va server
-        for (int i = 2; i <= n; i++) {
-            result *=i;
-        }
-        return result;
+//        if (n==0||n==1) {
+//            return 1;
+//        }
+//        long result= 1;//xanh local va server
+//        for (int i = 2; i <= n; i++) {
+//            result *=i;
+//        }
+//        return result;
     }
 }
